@@ -1,0 +1,3 @@
+import Link from 'next/link'
+import { PatternBand, Pattern } from '@/components/patterns/Patterns'
+export default function NotFound(){return <section className="frame relative overflow-hidden py-32"><PatternBand kind="rings"/><div className="my-14 max-w-xl"><h1 className="display text-6xl">This table isn’t here.</h1><p className="my-6">We couldn’t find that page. Come back to Locale or explore the menu.</p><Link className="underline underline-offset-4" href="/">Back to Locale</Link><Link className="ml-8 underline underline-offset-4" href="/menu">View menu</Link></div><div className="h-16"><Pattern kind="rings" opacity={.2}/></div></section>}

@@ -1,0 +1,7 @@
+export interface SeatingZone { id:string; name:string; description:string; image:string; alt:string; additionalPhotos?: {src:string; alt:string}[] }
+export const seatingZones:SeatingZone[] = [
+ {id:'indoor',name:'Indoor Dining',description:'Geometric walls, woven lights and a table to settle into.',image:'/images/about/image-04.webp',alt:'Indoor gathering beneath geometric murals and woven pendant lights',additionalPhotos:[{src:'/images/space/image-06.webp',alt:'Guests beside geometric murals and woven pendant lights'},{src:'/images/space/image-20.webp',alt:'Guests decorating cakes around a table beneath the mural'}]},
+ {id:'bar',name:'Bar Counter',description:'Pull up a stool. Watch the cocktails happen.',image:'/images/space/image-15.webp',alt:'Seating facing Locale’s patterned bar and bottle shelves',additionalPhotos:[{src:'/images/drinks/drink-pdf-x17.webp',alt:'Blue cocktail garnished with citrus and pineapple'},{src:'/images/drinks/drink-pdf-x18.webp',alt:'Creamy cocktail garnished with a biscuit'}]},
+ {id:'courtyard',name:'Leafy Courtyard',description:'Greenery, patterned columns and room to linger.',image:'/images/courtyard/image-19.webp',alt:'Table with games beside plants in the covered courtyard',additionalPhotos:[{src:'/images/courtyard/image-07.webp',alt:'Pottery activity beside leafy courtyard planting'},{src:'/images/courtyard/image-09.webp',alt:'Painting around a table in the covered courtyard'}]},
+ {id:'private',name:'Private Dining',description:'Your people, your table. Ask us about a private gathering.',image:'',alt:''},
+]

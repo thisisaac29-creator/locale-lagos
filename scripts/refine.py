@@ -1,0 +1,6 @@
+from pathlib import Path
+p=Path('src/components/gallery/Lightbox.tsx');s=p.read_text().replace("import { media } from '@/data/media'\n",'').replace('blurDataURL={vector ? undefined : BLUR_DATA_URL}','blurDataURL={vector ? undefined : image.blurDataURL ?? BLUR_DATA_URL}');p.write_text(s)
+p=Path('src/app/layout.tsx');s=p.read_text().replace("width: 2048, height: 1365, alt: 'Locale Lagos dining room placeholder image'","width: 360, height: 640, alt: 'Locale Lagos dining space'");p.write_text(s)
+p=Path('src/components/home/BrandStatement.tsx');s=p.read_text().replace('lg:flex lg:min-h-screen lg:items-center lg:overflow-hidden lg:py-0','motion-safe:lg:flex motion-safe:lg:min-h-screen motion-safe:lg:items-center motion-safe:lg:overflow-hidden motion-safe:lg:py-0').replace('lg:h-[76vh]','motion-safe:lg:h-[76vh]').replace('lg:absolute lg:inset-y-0 lg:left-[var(--frame)] lg:right-[var(--frame)] lg:mb-0','motion-safe:lg:absolute motion-safe:lg:inset-y-0 motion-safe:lg:left-[var(--frame)] motion-safe:lg:right-[var(--frame)] motion-safe:lg:mb-0');p.write_text(s)
+# Remove decorative synthetic grain inherited from the scaffold.
+p=Path('src/app/globals.css');s=p.read_text();import re;s=re.sub(r'  \.grain::after \{.*?\n  \}', '',s,flags=re.S);p.write_text(s)
