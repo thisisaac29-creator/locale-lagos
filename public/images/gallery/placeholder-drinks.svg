@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Placeholder for cocktail photograph">
+  <rect width="800" height="1000" fill="#A85036"/>
+  <g fill="none" stroke="#F4EDE3" stroke-opacity=".32" stroke-width="2">
+    <path d="M300 300h200l-90 240h-20L300 300Z"/>
+    <path d="M400 540v200m-90 0h180"/>
+    <circle cx="440" cy="270" r="34"/>
+  </g>
+  <text x="48" y="80" fill="#F4EDE3" font-family="Arial, sans-serif" font-size="20" letter-spacing="6">IMAGE PLACEHOLDER</text>
+  <text x="48" y="930" fill="#F4EDE3" font-family="Georgia, serif" font-size="64">Drinks</text>
+  <text x="48" y="970" fill="#F4EDE3" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">REPLACE WITH REAL PHOTOGRAPHY</text>
+</svg>

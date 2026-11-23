@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Placeholder for private dining photograph">
+  <rect width="800" height="1000" fill="#4A362B"/>
+  <path d="M400 70c-140 0-230 110-230 250v620h460V320c0-140-90-250-230-250Z" fill="#C98B6B" opacity=".16"/>
+  <g stroke="#E5D5BF" stroke-opacity=".3" fill="none" stroke-width="2">
+    <ellipse cx="400" cy="640" rx="230" ry="110"/>
+    <ellipse cx="400" cy="640" rx="150" ry="66"/>
+    <path d="M400 470v-90m-160 260-60-40m380 40 60-40"/>
+  </g>
+  <text x="48" y="80" fill="#F4EDE3" font-family="Arial, sans-serif" font-size="20" letter-spacing="6">IMAGE PLACEHOLDER</text>
+  <text x="48" y="930" fill="#F4EDE3" font-family="Georgia, serif" font-size="64">Private Dining</text>
+  <text x="48" y="970" fill="#F4EDE3" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">REPLACE WITH REAL PHOTOGRAPHY</text>
+</svg>

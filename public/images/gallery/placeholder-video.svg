@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Placeholder poster for the walkthrough video">
+  <rect width="800" height="1000" fill="#1C1815"/>
+  <circle cx="400" cy="500" r="110" fill="none" stroke="#E5D5BF" stroke-opacity=".5" stroke-width="3"/>
+  <path d="M370 440l90 60-90 60V440Z" fill="#E5D5BF" opacity=".7"/>
+  <text x="48" y="80" fill="#F4EDE3" font-family="Arial, sans-serif" font-size="20" letter-spacing="6">VIDEO PLACEHOLDER</text>
+  <text x="48" y="930" fill="#F4EDE3" font-family="Georgia, serif" font-size="64">The Tour</text>
+  <text x="48" y="970" fill="#F4EDE3" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">ADD public/videos/tour.mp4</text>
+</svg>

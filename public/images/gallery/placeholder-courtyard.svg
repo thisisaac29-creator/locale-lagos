@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Placeholder for courtyard photograph">
+  <rect width="800" height="1000" fill="#5B6348"/>
+  <path d="M400 90c-150 0-250 120-250 270v550h500V360c0-150-100-270-250-270Z" fill="#E5D5BF" opacity=".14"/>
+  <g fill="none" stroke="#E5D5BF" stroke-opacity=".28" stroke-width="2">
+    <path d="M400 950V300M400 560c-90-70-160-80-230-60M400 680c100-80 170-90 240-70M400 420c-70-40-120-40-170-20M400 480c80-50 140-55 190-35"/>
+  </g>
+  <g fill="#E5D5BF" opacity=".45">
+    <ellipse cx="300" cy="500" rx="18" ry="60" transform="rotate(-35 300 500)"/>
+    <ellipse cx="510" cy="610" rx="20" ry="70" transform="rotate(40 510 610)"/>
+    <ellipse cx="350" cy="700" rx="16" ry="55" transform="rotate(-25 350 700)"/>
+    <ellipse cx="480" cy="400" rx="15" ry="52" transform="rotate(30 480 400)"/>
+  </g>
+  <text x="48" y="80" fill="#F4EDE3" font-family="Arial, sans-serif" font-size="20" letter-spacing="6">IMAGE PLACEHOLDER</text>
+  <text x="48" y="930" fill="#F4EDE3" font-family="Georgia, serif" font-size="64">Courtyard</text>
+  <text x="48" y="970" fill="#F4EDE3" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">REPLACE WITH REAL PHOTOGRAPHY</text>
+</svg>
