@@ -1,0 +1,55 @@
+grills
+CHICKEN SUYA | 4500
+LAMB SUYA | 5500
+GRILLED CHICKEN ON THE BONE | 8000, 14500,
+28500
+(quarter, half, or full)
+BUTTERFLY PRAWNS | 12000
+CATCH OF THE DAY | 12500
+(croaker or red snapper)
+PORK RIBS | 15000
+SUYA PLATTER | 18000
+(chicken suya, lamb suya, quarter grilled chicken,
+fries, rodo stew, spiced flat bread)
+LOCALE PLATTER | 24000
+(butterfly prawns, grilled fish, pork ribs, fries, rodo
+stew, spiced flat bread)
+KUNG PAO SIZZLER (VEGETABLE, CHICKEN OR
+PRAWN) | 10000, 14000, 17500
+(roasted vegetables, fries, choice of noodles or rice,
+kung pao sizzling gravy)
+ONE PAN CHICKEN & RICE | 15000
+(locally sourced chicken roasted & served in a
+creamy rodo-infused rice)
+CHILLI SESAME NOODLES (VEGETABLE, CHICKEN
+OR PRAWN) | 11500, 15500, 19000
+(Asian noodles, summer vegetables, chilli crunch)
+PRAWN ESCALOPE | 15500
+(cheesy breaded prawns on spicy tomato sauce,
+served with creamy tomato spaghetti)
+SEAFOOD PAELLA (SERVES TWO) | 25500
+(prawns, calamari, fish, shellfish, & crab claws in a
+spiced saffron rice. cooked & served in the same
+pan)
+LOCALE SURF & TURF | 28000
+(seasoned lamb chunks & lobster, grilled potatoes &
+onion served with a peppery cream sauce)
+BUTTER GARLIC CRAB OR PRAWNS | 15000, 25000
+(cooked & served in the shell, tossed in a garlic &
+chilli butter sauce served with Locale steamed buns)
+CAJUN SEAFOOD BROIL | 27000
+(sizzling medley of succulent seafood, golden
+potatoes, and sweetcorn, smothered in Cajun butter
+sauce.
+between buns
+MINI SLIDERS
+(VEGETABLE,CHICKEN, PULLED PORK) | 7500, 8500,
+9000
+mini burgers with choice of filling, served with fries)
+BUTTERMILK FRIED CHICKEN BURGER | 13500
+(Chicken fillet marinated overnight in spicy buttermilk
+fried to a crispy perfection)
+DOUBLE PATTY LAMB BURGER | 18000
+(grilled lamb Pattys, sauteed onions, cheese melt,
+served with crisp onion rings)
+vegetarian spicy chef special

@@ -1,0 +1,2 @@
+# Locale Lagos
+Existing restaurant marketing site: six routes, menu browsing, gallery lightbox, contact/reservation links. This follow-up preserves the product and established editorial layout while replacing placeholder content with supplied media and menu PDFs. Audience: diners exploring the space, menu and how to reserve. Source facts: existing site data plus public/locale-media. No inferred history or cultural meanings.
