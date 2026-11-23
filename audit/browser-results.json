@@ -1,0 +1,4431 @@
+{
+  "browser": "157.0.8103.51",
+  "pages": [
+    {
+      "route": "/",
+      "width": 320,
+      "status": 200,
+      "errors": [],
+      "title": "Locale Lagos — Where #GlobalMeetsLocal",
+      "h1": [
+        "Where#GlobalMeetsLocal"
+      ],
+      "scrollWidth": 320,
+      "brokenImages": [
+        ""
+      ],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a Table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "View Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "All offers",
+          "href": "/offers"
+        },
+        {
+          "text": "See the full gallery ↗",
+          "href": "/gallery"
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "text": "Bar CounterLocalePull up a stool. Watch the cocktails happen.",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Bar CounterLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "H3",
+          "text": "Bar Counter",
+          "class": "display text-[clamp(2rem,3.4vw,3.4rem)]"
+        },
+        {
+          "tag": "P",
+          "text": "Pull up a stool. Watch the cocktails happen.",
+          "class": "mt-2 max-w-[38ch] text-sm leading-relaxed text-umber sm:text-base"
+        },
+        {
+          "tag": "ARTICLE",
+          "text": "Leafy CourtyardLocaleOpen sky, greenery and the best table in the hous",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Leafy CourtyardLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "H3",
+          "text": "Leafy Courtyard",
+          "class": "display text-[clamp(2rem,3.4vw,3.4rem)]"
+        },
+        {
+          "tag": "P",
+          "text": "Open sky, greenery and the best table in the house.",
+          "class": "mt-2 max-w-[38ch] text-sm leading-relaxed text-umber sm:text-base"
+        }
+      ],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes."
+    },
+    {
+      "route": "/about",
+      "width": 320,
+      "status": 200,
+      "errors": [],
+      "title": "About · Locale Lagos",
+      "h1": [
+        "AboutLocale."
+      ],
+      "scrollWidth": 320,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "See the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "/contact"
+        },
+        {
+          "text": "View the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes. Explore the Afro-Bohemian room, its details and the Where #GlobalMeetsLocal food philosophy."
+    },
+    {
+      "route": "/menu",
+      "width": 320,
+      "status": 200,
+      "errors": [],
+      "title": "Menu · Locale Lagos",
+      "h1": [
+        "Menu"
+      ],
+      "scrollWidth": 320,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Small Plates & Starters",
+          "href": "#small-plates"
+        },
+        {
+          "text": "Between Buns & Burgers",
+          "href": "#buns-burgers"
+        },
+        {
+          "text": "Global-Meets-Local Mains",
+          "href": "#mains"
+        },
+        {
+          "text": "Download full menu (PDF)",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Reserve a table on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "A",
+          "text": "Between Buns & Burgers",
+          "class": "shrink-0 whitespace-nowrap text-base text-umber transition-colors hover:text-terracotta"
+        },
+        {
+          "tag": "A",
+          "text": "Global-Meets-Local Mains",
+          "class": "shrink-0 whitespace-nowrap text-base text-umber transition-colors hover:text-terracotta"
+        }
+      ],
+      "description": "Explore the Locale Lagos menu, with dishes, drinks, desserts and shisha and prices where available."
+    },
+    {
+      "route": "/offers",
+      "width": 320,
+      "status": 200,
+      "errors": [],
+      "title": "Offers · Locale Lagos",
+      "h1": [
+        "Offers"
+      ],
+      "scrollWidth": 320,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes."
+    },
+    {
+      "route": "/gallery",
+      "width": 320,
+      "status": 200,
+      "errors": [],
+      "title": "Gallery · Locale Lagos",
+      "h1": [],
+      "scrollWidth": 320,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "@locale.lagos",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "BUTTON",
+          "text": "Drinks",
+          "class": "label shrink-0 border px-4 py-3 transition-colors duration-300 border-ink/20 text-umber hover:border-terracotta hover:text-terracotta"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Courtyard",
+          "class": "label shrink-0 border px-4 py-3 transition-colors duration-300 border-ink/20 text-umber hover:border-terracotta hover:text-terracotta"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Private Dining",
+          "class": "label shrink-0 border px-4 py-3 transition-colors duration-300 border-ink/20 text-umber hover:border-terracotta hover:text-terracotta"
+        }
+      ],
+      "description": "A look around Locale — the dining room, the plates, the courtyard and private dining. Placeholder imagery awaiting Locale’s own photography."
+    },
+    {
+      "route": "/contact",
+      "width": 320,
+      "status": 200,
+      "errors": [],
+      "title": "Contact · Locale Lagos",
+      "h1": [
+        "Contact"
+      ],
+      "scrollWidth": 320,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Open WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "Find Locale at 2 Saka Jojo Street, Victoria Island, Lagos 101241, Nigeria. Call us or reserve a table on WhatsApp."
+    },
+    {
+      "route": "/",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "title": "Locale Lagos — Where #GlobalMeetsLocal",
+      "h1": [
+        "Where#GlobalMeetsLocal"
+      ],
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a Table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "View Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "All offers",
+          "href": "/offers"
+        },
+        {
+          "text": "See the full gallery ↗",
+          "href": "/gallery"
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "text": "Bar CounterLocalePull up a stool. Watch the cocktails happen.",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Bar CounterLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "H3",
+          "text": "Bar Counter",
+          "class": "display text-[clamp(2rem,3.4vw,3.4rem)]"
+        },
+        {
+          "tag": "P",
+          "text": "Pull up a stool. Watch the cocktails happen.",
+          "class": "mt-2 max-w-[38ch] text-sm leading-relaxed text-umber sm:text-base"
+        },
+        {
+          "tag": "ARTICLE",
+          "text": "Leafy CourtyardLocaleOpen sky, greenery and the best table in the hous",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Leafy CourtyardLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "H3",
+          "text": "Leafy Courtyard",
+          "class": "display text-[clamp(2rem,3.4vw,3.4rem)]"
+        },
+        {
+          "tag": "P",
+          "text": "Open sky, greenery and the best table in the house.",
+          "class": "mt-2 max-w-[38ch] text-sm leading-relaxed text-umber sm:text-base"
+        }
+      ],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes."
+    },
+    {
+      "route": "/about",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "title": "About · Locale Lagos",
+      "h1": [
+        "AboutLocale."
+      ],
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "See the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "/contact"
+        },
+        {
+          "text": "View the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes. Explore the Afro-Bohemian room, its details and the Where #GlobalMeetsLocal food philosophy."
+    },
+    {
+      "route": "/menu",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "title": "Menu · Locale Lagos",
+      "h1": [
+        "Menu"
+      ],
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Small Plates & Starters",
+          "href": "#small-plates"
+        },
+        {
+          "text": "Between Buns & Burgers",
+          "href": "#buns-burgers"
+        },
+        {
+          "text": "Global-Meets-Local Mains",
+          "href": "#mains"
+        },
+        {
+          "text": "Download full menu (PDF)",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Reserve a table on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "A",
+          "text": "Between Buns & Burgers",
+          "class": "shrink-0 whitespace-nowrap text-base text-umber transition-colors hover:text-terracotta"
+        },
+        {
+          "tag": "A",
+          "text": "Global-Meets-Local Mains",
+          "class": "shrink-0 whitespace-nowrap text-base text-umber transition-colors hover:text-terracotta"
+        }
+      ],
+      "description": "Explore the Locale Lagos menu, with dishes, drinks, desserts and shisha and prices where available."
+    },
+    {
+      "route": "/offers",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "title": "Offers · Locale Lagos",
+      "h1": [
+        "Offers"
+      ],
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes."
+    },
+    {
+      "route": "/gallery",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "title": "Gallery · Locale Lagos",
+      "h1": [],
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "@locale.lagos",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "BUTTON",
+          "text": "Drinks",
+          "class": "label shrink-0 border px-4 py-3 transition-colors duration-300 border-ink/20 text-umber hover:border-terracotta hover:text-terracotta"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Courtyard",
+          "class": "label shrink-0 border px-4 py-3 transition-colors duration-300 border-ink/20 text-umber hover:border-terracotta hover:text-terracotta"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Private Dining",
+          "class": "label shrink-0 border px-4 py-3 transition-colors duration-300 border-ink/20 text-umber hover:border-terracotta hover:text-terracotta"
+        }
+      ],
+      "description": "A look around Locale — the dining room, the plates, the courtyard and private dining. Placeholder imagery awaiting Locale’s own photography."
+    },
+    {
+      "route": "/contact",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "title": "Contact · Locale Lagos",
+      "h1": [
+        "Contact"
+      ],
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Open WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "Find Locale at 2 Saka Jojo Street, Victoria Island, Lagos 101241, Nigeria. Call us or reserve a table on WhatsApp."
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "title": "Locale Lagos — Where #GlobalMeetsLocal",
+      "h1": [
+        "Where#GlobalMeetsLocal"
+      ],
+      "scrollWidth": 390,
+      "brokenImages": [
+        "",
+        ""
+      ],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a Table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "View Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "All offers",
+          "href": "/offers"
+        },
+        {
+          "text": "See the full gallery ↗",
+          "href": "/gallery"
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "text": "Bar CounterLocalePull up a stool. Watch the cocktails happen.",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Bar CounterLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "H3",
+          "text": "Bar Counter",
+          "class": "display text-[clamp(2rem,3.4vw,3.4rem)]"
+        },
+        {
+          "tag": "P",
+          "text": "Pull up a stool. Watch the cocktails happen.",
+          "class": "mt-2 max-w-[38ch] text-sm leading-relaxed text-umber sm:text-base"
+        },
+        {
+          "tag": "ARTICLE",
+          "text": "Leafy CourtyardLocaleOpen sky, greenery and the best table in the hous",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Leafy CourtyardLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "H3",
+          "text": "Leafy Courtyard",
+          "class": "display text-[clamp(2rem,3.4vw,3.4rem)]"
+        },
+        {
+          "tag": "P",
+          "text": "Open sky, greenery and the best table in the house.",
+          "class": "mt-2 max-w-[38ch] text-sm leading-relaxed text-umber sm:text-base"
+        }
+      ],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "description": "Ensure elements that have scrollable content are accessible by keyboard in Safari",
+          "nodes": [
+            {
+              "target": [
+                ".pb-6"
+              ],
+              "summary": "Fix any of the following:\n  Element should have focusable content\n  Element should be focusable"
+            },
+            {
+              "target": [
+                ".pb-4"
+              ],
+              "summary": "Fix any of the following:\n  Element should have focusable content\n  Element should be focusable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "title": "About · Locale Lagos",
+      "h1": [
+        "AboutLocale."
+      ],
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "See the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "/contact"
+        },
+        {
+          "text": "View the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes. Explore the Afro-Bohemian room, its details and the Where #GlobalMeetsLocal food philosophy.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".bg-umber > .frame > div:nth-child(1) > .eyebrow-rule.mb-5.text-clay"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.84 (foreground color: #c08e70, background color: #4c382c, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".border-paper\\/20.py-8.first\\:border-t-0:nth-child(1) > .text-clay.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.84 (foreground color: #c08e70, background color: #4c382c, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".border-paper\\/20.py-8.first\\:border-t-0:nth-child(2) > .text-clay.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.84 (foreground color: #c08e70, background color: #4c382c, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".border-paper\\/20.py-8.first\\:border-t-0:nth-child(3) > .text-clay.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.84 (foreground color: #c08e70, background color: #4c382c, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".lg\\:col-span-4.lg\\:col-start-9 > .text-clay.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.84 (foreground color: #c08e70, background color: #4c382c, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/menu",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "title": "Menu · Locale Lagos",
+      "h1": [
+        "Menu"
+      ],
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Small Plates & Starters",
+          "href": "#small-plates"
+        },
+        {
+          "text": "Between Buns & Burgers",
+          "href": "#buns-burgers"
+        },
+        {
+          "text": "Global-Meets-Local Mains",
+          "href": "#mains"
+        },
+        {
+          "text": "Download full menu (PDF)",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Reserve a table on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "A",
+          "text": "Between Buns & Burgers",
+          "class": "shrink-0 whitespace-nowrap text-base text-umber transition-colors hover:text-terracotta"
+        },
+        {
+          "tag": "A",
+          "text": "Global-Meets-Local Mains",
+          "class": "shrink-0 whitespace-nowrap text-base text-umber transition-colors hover:text-terracotta"
+        }
+      ],
+      "description": "Explore the Locale Lagos menu, with dishes, drinks, desserts and shisha and prices where available.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/offers",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "title": "Offers · Locale Lagos",
+      "h1": [
+        "Offers"
+      ],
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".bg-sand > .mx-auto.max-w-frame > div:nth-child(1) > .eyebrow-rule.text-terracotta.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.99 (foreground color: #9c4e35, background color: #e3d2bc, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".mt-12 > div:nth-child(1) > .text-terracotta.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.99 (foreground color: #9c4e35, background color: #e3d2bc, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(2) > .text-terracotta.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.99 (foreground color: #9c4e35, background color: #e3d2bc, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/gallery",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "title": "Gallery · Locale Lagos",
+      "h1": [],
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "@locale.lagos",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "BUTTON",
+          "text": "Courtyard",
+          "class": "label shrink-0 border px-4 py-3 transition-colors duration-300 border-ink/20 text-umber hover:border-terracotta hover:text-terracotta"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Private Dining",
+          "class": "label shrink-0 border px-4 py-3 transition-colors duration-300 border-ink/20 text-umber hover:border-terracotta hover:text-terracotta"
+        }
+      ],
+      "description": "A look around Locale — the dining room, the plates, the courtyard and private dining. Placeholder imagery awaiting Locale’s own photography.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "title": "Contact · Locale Lagos",
+      "h1": [
+        "Contact"
+      ],
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Open WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "Find Locale at 2 Saka Jojo Street, Victoria Island, Lagos 101241, Nigeria. Call us or reserve a table on WhatsApp.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "title": "Locale Lagos — Where #GlobalMeetsLocal",
+      "h1": [
+        "Where#GlobalMeetsLocal"
+      ],
+      "scrollWidth": 768,
+      "brokenImages": [
+        ""
+      ],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a Table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "View Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "All offers",
+          "href": "/offers"
+        },
+        {
+          "text": "See the full gallery ↗",
+          "href": "/gallery"
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "text": "Bar CounterLocalePull up a stool. Watch the cocktails happen.",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Bar CounterLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "SPAN",
+          "text": "Locale",
+          "class": "label hidden shrink-0 text-umber/50 sm:block"
+        },
+        {
+          "tag": "P",
+          "text": "Pull up a stool. Watch the cocktails happen.",
+          "class": "mt-2 max-w-[38ch] text-sm leading-relaxed text-umber sm:text-base"
+        },
+        {
+          "tag": "ARTICLE",
+          "text": "Leafy CourtyardLocaleOpen sky, greenery and the best table in the hous",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Leafy CourtyardLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "H3",
+          "text": "Leafy Courtyard",
+          "class": "display text-[clamp(2rem,3.4vw,3.4rem)]"
+        },
+        {
+          "tag": "SPAN",
+          "text": "Locale",
+          "class": "label hidden shrink-0 text-umber/50 sm:block"
+        }
+      ],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes."
+    },
+    {
+      "route": "/about",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "title": "About · Locale Lagos",
+      "h1": [
+        "AboutLocale."
+      ],
+      "scrollWidth": 768,
+      "brokenImages": [
+        ""
+      ],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "See the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "/contact"
+        },
+        {
+          "text": "View the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes. Explore the Afro-Bohemian room, its details and the Where #GlobalMeetsLocal food philosophy."
+    },
+    {
+      "route": "/menu",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "title": "Menu · Locale Lagos",
+      "h1": [
+        "Menu"
+      ],
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Small Plates & Starters",
+          "href": "#small-plates"
+        },
+        {
+          "text": "Between Buns & Burgers",
+          "href": "#buns-burgers"
+        },
+        {
+          "text": "Global-Meets-Local Mains",
+          "href": "#mains"
+        },
+        {
+          "text": "Download full menu (PDF)",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Reserve a table on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "Explore the Locale Lagos menu, with dishes, drinks, desserts and shisha and prices where available."
+    },
+    {
+      "route": "/offers",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "title": "Offers · Locale Lagos",
+      "h1": [
+        "Offers"
+      ],
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes."
+    },
+    {
+      "route": "/gallery",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "title": "Gallery · Locale Lagos",
+      "h1": [],
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "@locale.lagos",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A look around Locale — the dining room, the plates, the courtyard and private dining. Placeholder imagery awaiting Locale’s own photography."
+    },
+    {
+      "route": "/contact",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "title": "Contact · Locale Lagos",
+      "h1": [
+        "Contact"
+      ],
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Open WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "Find Locale at 2 Saka Jojo Street, Victoria Island, Lagos 101241, Nigeria. Call us or reserve a table on WhatsApp."
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "title": "Locale Lagos — Where #GlobalMeetsLocal",
+      "h1": [
+        "Where#GlobalMeetsLocal"
+      ],
+      "scrollWidth": 1024,
+      "brokenImages": [
+        ""
+      ],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a Table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "View Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "All offers",
+          "href": "/offers"
+        },
+        {
+          "text": "See the full gallery ↗",
+          "href": "/gallery"
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "text": "Leafy CourtyardLocaleOpen sky, greenery and the best table in the hous",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Leafy CourtyardLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "H3",
+          "text": "Leafy Courtyard",
+          "class": "display text-[clamp(2rem,3.4vw,3.4rem)]"
+        },
+        {
+          "tag": "SPAN",
+          "text": "Locale",
+          "class": "label hidden shrink-0 text-umber/50 sm:block"
+        },
+        {
+          "tag": "P",
+          "text": "Open sky, greenery and the best table in the house.",
+          "class": "mt-2 max-w-[38ch] text-sm leading-relaxed text-umber sm:text-base"
+        },
+        {
+          "tag": "ARTICLE",
+          "text": "Private DiningLocaleYour people, your table, your own kind of night.",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Private DiningLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "H3",
+          "text": "Private Dining",
+          "class": "display text-[clamp(2rem,3.4vw,3.4rem)]"
+        }
+      ],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes."
+    },
+    {
+      "route": "/about",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "title": "About · Locale Lagos",
+      "h1": [
+        "AboutLocale."
+      ],
+      "scrollWidth": 1024,
+      "brokenImages": [
+        ""
+      ],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "See the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "/contact"
+        },
+        {
+          "text": "View the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes. Explore the Afro-Bohemian room, its details and the Where #GlobalMeetsLocal food philosophy."
+    },
+    {
+      "route": "/menu",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "title": "Menu · Locale Lagos",
+      "h1": [
+        "Menu"
+      ],
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Small Plates & Starters",
+          "href": "#small-plates"
+        },
+        {
+          "text": "Between Buns & Burgers",
+          "href": "#buns-burgers"
+        },
+        {
+          "text": "Global-Meets-Local Mains",
+          "href": "#mains"
+        },
+        {
+          "text": "Download full menu (PDF)",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Reserve a table on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "Explore the Locale Lagos menu, with dishes, drinks, desserts and shisha and prices where available."
+    },
+    {
+      "route": "/offers",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "title": "Offers · Locale Lagos",
+      "h1": [
+        "Offers"
+      ],
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes."
+    },
+    {
+      "route": "/gallery",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "title": "Gallery · Locale Lagos",
+      "h1": [],
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "@locale.lagos",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A look around Locale — the dining room, the plates, the courtyard and private dining. Placeholder imagery awaiting Locale’s own photography."
+    },
+    {
+      "route": "/contact",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "title": "Contact · Locale Lagos",
+      "h1": [
+        "Contact"
+      ],
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Open WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "Find Locale at 2 Saka Jojo Street, Victoria Island, Lagos 101241, Nigeria. Call us or reserve a table on WhatsApp."
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "title": "Locale Lagos — Where #GlobalMeetsLocal",
+      "h1": [
+        "Where#GlobalMeetsLocal"
+      ],
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a Table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "View Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "All offers",
+          "href": "/offers"
+        },
+        {
+          "text": "See the full gallery ↗",
+          "href": "/gallery"
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "text": "Leafy CourtyardLocaleOpen sky, greenery and the best table in the hous",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Leafy CourtyardLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "SPAN",
+          "text": "Locale",
+          "class": "label hidden shrink-0 text-umber/50 sm:block"
+        },
+        {
+          "tag": "P",
+          "text": "Open sky, greenery and the best table in the house.",
+          "class": "mt-2 max-w-[38ch] text-sm leading-relaxed text-umber sm:text-base"
+        },
+        {
+          "tag": "ARTICLE",
+          "text": "Private DiningLocaleYour people, your table, your own kind of night.",
+          "class": "group w-[82vw] shrink-0 snap-center sm:w-[62vw] lg:w-[40vw] xl:w-[34vw]"
+        },
+        {
+          "tag": "DIV",
+          "text": "",
+          "class": "arch relative overflow-hidden bg-sand aspect-[4/5] w-full"
+        },
+        {
+          "tag": "IMG",
+          "text": "",
+          "class": "h-full w-full object-cover transition-transform duration-[1200ms] ease-silky group-hover:scale-[1.05]"
+        },
+        {
+          "tag": "DIV",
+          "text": "Private DiningLocale",
+          "class": "mt-6 flex items-baseline justify-between gap-4"
+        },
+        {
+          "tag": "H3",
+          "text": "Private Dining",
+          "class": "display text-[clamp(2rem,3.4vw,3.4rem)]"
+        },
+        {
+          "tag": "SPAN",
+          "text": "Locale",
+          "class": "label hidden shrink-0 text-umber/50 sm:block"
+        }
+      ],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "description": "Ensure elements that have scrollable content are accessible by keyboard in Safari",
+          "nodes": [
+            {
+              "target": [
+                ".pb-6"
+              ],
+              "summary": "Fix any of the following:\n  Element should have focusable content\n  Element should be focusable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "title": "About · Locale Lagos",
+      "h1": [
+        "AboutLocale."
+      ],
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "See the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "/contact"
+        },
+        {
+          "text": "View the menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes. Explore the Afro-Bohemian room, its details and the Where #GlobalMeetsLocal food philosophy.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".bg-umber > .frame > div:nth-child(1) > .eyebrow-rule.mb-5.text-clay"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.84 (foreground color: #c08e70, background color: #4c382c, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".border-paper\\/20.py-8.first\\:border-t-0:nth-child(1) > .text-clay.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.84 (foreground color: #c08e70, background color: #4c382c, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".border-paper\\/20.py-8.first\\:border-t-0:nth-child(2) > .text-clay.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.84 (foreground color: #c08e70, background color: #4c382c, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".border-paper\\/20.py-8.first\\:border-t-0:nth-child(3) > .text-clay.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.84 (foreground color: #c08e70, background color: #4c382c, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".lg\\:col-span-4.lg\\:col-start-9 > .text-clay.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.84 (foreground color: #c08e70, background color: #4c382c, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/menu",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "title": "Menu · Locale Lagos",
+      "h1": [
+        "Menu"
+      ],
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Small Plates & Starters",
+          "href": "#small-plates"
+        },
+        {
+          "text": "Between Buns & Burgers",
+          "href": "#buns-burgers"
+        },
+        {
+          "text": "Global-Meets-Local Mains",
+          "href": "#mains"
+        },
+        {
+          "text": "Download full menu (PDF)",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Reserve a table on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "Explore the Locale Lagos menu, with dishes, drinks, desserts and shisha and prices where available.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/offers",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "title": "Offers · Locale Lagos",
+      "h1": [
+        "Offers"
+      ],
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve a table",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I%27d%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Enquire on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20enquire%20about%20private%20dining%20for%20___%20guests%20on%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A modern Afro-Bohemian dining room in Victoria Island, Lagos. Lagos street-food culture alongside international comfort dishes.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".bg-sand > .mx-auto.max-w-frame > div:nth-child(1) > .eyebrow-rule.text-terracotta.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.99 (foreground color: #9c4e35, background color: #e3d2bc, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".mt-12 > div:nth-child(1) > .text-terracotta.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.99 (foreground color: #9c4e35, background color: #e3d2bc, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(2) > .text-terracotta.label"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.99 (foreground color: #9c4e35, background color: #e3d2bc, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/gallery",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "title": "Gallery · Locale Lagos",
+      "h1": [],
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "@locale.lagos",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "A look around Locale — the dining room, the plates, the courtyard and private dining. Placeholder imagery awaiting Locale’s own photography.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "title": "Contact · Locale Lagos",
+      "h1": [
+        "Contact"
+      ],
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "links": [
+        {
+          "text": "Locale",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Reserve",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Call +234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "Reserve on WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        },
+        {
+          "text": "Open WhatsApp",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Reserve on WhatsApp ↗",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Menu",
+          "href": "/menu"
+        },
+        {
+          "text": "Offers",
+          "href": "/offers"
+        },
+        {
+          "text": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "+234 803 527 1497",
+          "href": "tel:+2348035271497"
+        },
+        {
+          "text": "WhatsApp 2349030009758",
+          "href": "https://wa.me/2349030009758?text=Hello%20Locale%2C%20I'd%20like%20to%20reserve%20a%20table%20for%20___%20on%20___%20at%20___."
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/locale.lagos/"
+        },
+        {
+          "text": "Linktree",
+          "href": "https://linktr.ee/localelagos"
+        }
+      ],
+      "overflow": [],
+      "description": "Find Locale at 2 Saka Jojo Street, Victoria Island, Lagos 101241, Nigeria. Call us or reserve a table on WhatsApp.",
+      "accessibility": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[clamp\\(7rem\\,25vw\\,30rem\\)\\]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on \"span\" elements with no valid role attribute."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "href": "/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "href": "/about",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "href": "/menu",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "href": "/offers",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "href": "/gallery",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "href": "/contact",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "href": "/robots.txt",
+      "status": 200,
+      "type": "text/plain"
+    },
+    {
+      "href": "/sitemap.xml",
+      "status": 200,
+      "type": "application/xml"
+    },
+    {
+      "href": "/nonexistent-audit-page",
+      "status": 404,
+      "type": "text/html; charset=utf-8"
+    }
+  ]
+}

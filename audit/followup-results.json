@@ -1,0 +1,165 @@
+{
+  "openingHours": [
+    {
+      "date": "2026-11-22T14:00:00+01:00",
+      "isOpen": false
+    },
+    {
+      "date": "2026-11-23T14:00:00+01:00",
+      "isOpen": true
+    },
+    {
+      "date": "2026-11-24T14:00:00+01:00",
+      "isOpen": true
+    }
+  ],
+  "emptyForm": {
+    "alerts": 5,
+    "focus": "res-name"
+  },
+  "map": {
+    "frame": {
+      "x": 20,
+      "y": -1510.015625,
+      "width": 350,
+      "height": 262.5,
+      "top": -1510.015625,
+      "right": 370,
+      "bottom": -1247.515625,
+      "left": 20
+    },
+    "parent": {
+      "x": 20,
+      "y": -1510.015625,
+      "width": 350,
+      "height": 262.5,
+      "top": -1510.015625,
+      "right": 370,
+      "bottom": -1247.515625,
+      "left": 20
+    }
+  },
+  "hero320": {
+    "box": {
+      "x": 20,
+      "y": 136,
+      "width": 280,
+      "height": 97.15625,
+      "top": 136,
+      "right": 300,
+      "bottom": 233.15625,
+      "left": 20
+    },
+    "scroll": 280,
+    "client": 280,
+    "spans": [
+      {
+        "text": "Where",
+        "width": 280,
+        "scroll": 280
+      },
+      {
+        "text": "Where",
+        "width": 280,
+        "scroll": 280
+      },
+      {
+        "text": "#GlobalMeetsLocal",
+        "width": 280,
+        "scroll": 338
+      },
+      {
+        "text": "#GlobalMeetsLocal",
+        "width": 280,
+        "scroll": 338
+      }
+    ]
+  },
+  "images320": [],
+  "hero390": {
+    "box": {
+      "x": 20,
+      "y": 136,
+      "width": 350,
+      "height": 97.15625,
+      "top": 136,
+      "right": 370,
+      "bottom": 233.15625,
+      "left": 20
+    },
+    "scroll": 350,
+    "client": 350,
+    "spans": [
+      {
+        "text": "Where",
+        "width": 350,
+        "scroll": 350
+      },
+      {
+        "text": "Where",
+        "width": 350,
+        "scroll": 350
+      },
+      {
+        "text": "#GlobalMeetsLocal",
+        "width": 350,
+        "scroll": 350
+      },
+      {
+        "text": "#GlobalMeetsLocal",
+        "width": 350,
+        "scroll": 350
+      }
+    ]
+  },
+  "images390": [],
+  "hero1440": {
+    "box": {
+      "x": 60.46875,
+      "y": 136,
+      "width": 1319.0625,
+      "height": 282.21875,
+      "top": 136,
+      "right": 1379.53125,
+      "bottom": 418.21875,
+      "left": 60.46875
+    },
+    "scroll": 1319,
+    "client": 1319,
+    "spans": [
+      {
+        "text": "Where",
+        "width": 1319.0625,
+        "scroll": 1319
+      },
+      {
+        "text": "Where",
+        "width": 1319.0625,
+        "scroll": 1319
+      },
+      {
+        "text": "#GlobalMeetsLocal",
+        "width": 1319.0625,
+        "scroll": 1319
+      },
+      {
+        "text": "#GlobalMeetsLocal",
+        "width": 1319.0625,
+        "scroll": 1319
+      }
+    ]
+  },
+  "images1440": [],
+  "headers": {
+    "cache-control": "s-maxage=31536000, stale-while-revalidate",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Thu, 19 Nov 2026 13:35:58 GMT",
+    "etag": "\"fckqa8qgft2071\"",
+    "keep-alive": "timeout=5",
+    "transfer-encoding": "chunked",
+    "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+    "x-nextjs-cache": "HIT"
+  }
+}
