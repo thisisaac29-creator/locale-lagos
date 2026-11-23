@@ -1,0 +1,59 @@
+{
+  "originalsUnchanged": 76,
+  "videos": [
+    {
+      "file": "hero.mp4",
+      "bytes": 3105919,
+      "duration": "12.000000",
+      "audio": false
+    },
+    {
+      "file": "video-1.mp4",
+      "bytes": 3862853,
+      "duration": "20.916667",
+      "audio": false
+    },
+    {
+      "file": "video-2.mp4",
+      "bytes": 2878377,
+      "duration": "25.916667",
+      "audio": false
+    },
+    {
+      "file": "video-4.mp4",
+      "bytes": 1856726,
+      "duration": "18.958333",
+      "audio": false
+    },
+    {
+      "file": "video-5.mp4",
+      "bytes": 1805070,
+      "duration": "15.791667",
+      "audio": false
+    },
+    {
+      "file": "video-6.mp4",
+      "bytes": 1549218,
+      "duration": "13.708008",
+      "audio": false
+    },
+    {
+      "file": "video-7.mp4",
+      "bytes": 2004090,
+      "duration": "16.916667",
+      "audio": false
+    },
+    {
+      "file": "video-8.mp4",
+      "bytes": 7408180,
+      "duration": "47.333333",
+      "audio": false
+    },
+    {
+      "file": "video-9.mp4",
+      "bytes": 3896445,
+      "duration": "35.291667",
+      "audio": false
+    }
+  ]
+}

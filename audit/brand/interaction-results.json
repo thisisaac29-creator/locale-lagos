@@ -1,0 +1,60 @@
+[
+  {
+    "width": 360,
+    "tab": "Food",
+    "count": 76,
+    "pdfStatus": 200
+  },
+  {
+    "width": 360,
+    "tab": "Drinks",
+    "count": 150,
+    "pdfStatus": 200
+  },
+  {
+    "width": 360,
+    "tab": "Desserts",
+    "count": 15,
+    "pdfStatus": 200
+  },
+  {
+    "width": 360,
+    "lightbox": "open, next, Escape passed",
+    "drinksVideos": 2
+  },
+  {
+    "width": 360,
+    "mobileNavigation": "passed"
+  },
+  {
+    "width": 360,
+    "reducedMotionPoster": "passed",
+    "manualHeroPlay": "passed"
+  },
+  {
+    "width": 1440,
+    "tab": "Food",
+    "count": 76,
+    "pdfStatus": 200
+  },
+  {
+    "width": 1440,
+    "tab": "Drinks",
+    "count": 150,
+    "pdfStatus": 200
+  },
+  {
+    "width": 1440,
+    "tab": "Desserts",
+    "count": 15,
+    "pdfStatus": 200
+  },
+  {
+    "width": 1440,
+    "lightbox": "open, next, Escape passed",
+    "drinksVideos": 2
+  },
+  {
+    "heroPause": "passed"
+  }
+]

@@ -1,0 +1,6 @@
+import lighthouse from 'file:///C:/Users/ola/locale-lagos/audit/check-tools/node_modules/lighthouse/core/index.js';
+import * as chromeLauncher from 'file:///C:/Users/ola/locale-lagos/audit/check-tools/node_modules/chrome-launcher/dist/index.js';
+import fs from 'node:fs';
+const chrome=await chromeLauncher.launch({chromePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',chromeFlags:['--headless','--no-sandbox']});const summary=[];
+try{for(const route of ['/','/menu','/gallery']){const r=await lighthouse('http://localhost:3103'+route,{port:chrome.port,output:'json',logLevel:'error',onlyCategories:['performance']});fs.writeFileSync('audit/brand/lighthouse-'+(route.slice(1)||'home')+'.json',r.report);const l=r.lhr;const row={route,score:l.categories.performance.score,metrics:Object.fromEntries(['largest-contentful-paint','cumulative-layout-shift','total-blocking-time','total-byte-weight'].map(k=>[k,l.audits[k].numericValue])),failures:Object.entries(l.audits).filter(([k,a])=>a.score!==null&&a.score<.9).map(([k,a])=>({id:k,value:a.displayValue}))};summary.push(row);console.log(JSON.stringify(row));fs.writeFileSync('audit/brand/performance.json',JSON.stringify(summary,null,2));}}finally{await chrome.kill()}
+

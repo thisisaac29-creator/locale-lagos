@@ -1,0 +1,128 @@
+[
+  {
+    "route": "/",
+    "score": 0.93,
+    "metrics": {
+      "largest-contentful-paint": 1960.5412000000001,
+      "cumulative-layout-shift": 0,
+      "total-blocking-time": 191.5,
+      "total-byte-weight": 1356675
+    },
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "value": "2.0 s"
+      },
+      {
+        "id": "speed-index",
+        "value": "3.9 s"
+      },
+      {
+        "id": "max-potential-fid",
+        "value": "1,150 ms"
+      },
+      {
+        "id": "interactive",
+        "value": "4.8 s"
+      },
+      {
+        "id": "mainthread-work-breakdown",
+        "value": "4.8 s"
+      },
+      {
+        "id": "image-delivery-insight",
+        "value": "Est savings of 457 KiB"
+      },
+      {
+        "id": "legacy-javascript-insight",
+        "value": "Est savings of 11 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight"
+      },
+      {
+        "id": "render-blocking-insight"
+      }
+    ]
+  },
+  {
+    "route": "/menu",
+    "score": 0.92,
+    "metrics": {
+      "largest-contentful-paint": 3091.71125,
+      "cumulative-layout-shift": 0,
+      "total-blocking-time": 134,
+      "total-byte-weight": 299733
+    },
+    "failures": [
+      {
+        "id": "largest-contentful-paint",
+        "value": "3.1 s"
+      },
+      {
+        "id": "max-potential-fid",
+        "value": "330 ms"
+      },
+      {
+        "id": "mainthread-work-breakdown",
+        "value": "2.6 s"
+      },
+      {
+        "id": "forced-reflow-insight"
+      },
+      {
+        "id": "legacy-javascript-insight",
+        "value": "Est savings of 11 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight"
+      },
+      {
+        "id": "render-blocking-insight",
+        "value": "Est savings of 130 ms"
+      }
+    ]
+  },
+  {
+    "route": "/gallery",
+    "score": 0.9,
+    "metrics": {
+      "largest-contentful-paint": 3484.96775,
+      "cumulative-layout-shift": 0.000514110701562521,
+      "total-blocking-time": 90,
+      "total-byte-weight": 1526400
+    },
+    "failures": [
+      {
+        "id": "largest-contentful-paint",
+        "value": "3.5 s"
+      },
+      {
+        "id": "max-potential-fid",
+        "value": "370 ms"
+      },
+      {
+        "id": "interactive",
+        "value": "3.9 s"
+      },
+      {
+        "id": "mainthread-work-breakdown",
+        "value": "2.9 s"
+      },
+      {
+        "id": "image-delivery-insight",
+        "value": "Est savings of 733 KiB"
+      },
+      {
+        "id": "legacy-javascript-insight",
+        "value": "Est savings of 11 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight"
+      },
+      {
+        "id": "render-blocking-insight"
+      }
+    ]
+  }
+]
