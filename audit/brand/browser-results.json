@@ -1,0 +1,374 @@
+[
+  {
+    "width": 360,
+    "route": "/",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 360,
+    "h1": [
+      "Where#GlobalMeetsLocal"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 360,
+    "route": "/about",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 360,
+    "h1": [
+      "AboutLocale."
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 360,
+    "route": "/menu",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 360,
+    "h1": [
+      "Menu"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 360,
+    "route": "/gallery",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 360,
+    "h1": [
+      "A look around."
+    ],
+    "brokenImages": [],
+    "videos": [
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      }
+    ],
+    "violations": []
+  },
+  {
+    "width": 360,
+    "route": "/offers",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 360,
+    "h1": [
+      "Offers"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 360,
+    "route": "/contact",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 360,
+    "h1": [
+      "Contact"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 360,
+    "route": "/brand-test-404",
+    "status": 404,
+    "errors": [],
+    "scrollWidth": 360,
+    "h1": [
+      "This table isn’t here."
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 768,
+    "h1": [
+      "Where#GlobalMeetsLocal"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/about",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 768,
+    "h1": [
+      "AboutLocale."
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/menu",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 768,
+    "h1": [
+      "Menu"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/gallery",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 768,
+    "h1": [
+      "A look around."
+    ],
+    "brokenImages": [],
+    "videos": [
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      }
+    ],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/offers",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 768,
+    "h1": [
+      "Offers"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/contact",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 768,
+    "h1": [
+      "Contact"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/brand-test-404",
+    "status": 404,
+    "errors": [],
+    "scrollWidth": 768,
+    "h1": [
+      "This table isn’t here."
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 1440,
+    "h1": [
+      "Where#GlobalMeetsLocal"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 1440,
+    "h1": [
+      "AboutLocale."
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/menu",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 1440,
+    "h1": [
+      "Menu"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/gallery",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 1440,
+    "h1": [
+      "A look around."
+    ],
+    "brokenImages": [],
+    "videos": [
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      },
+      {
+        "paused": true,
+        "preload": "none"
+      }
+    ],
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/offers",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 1440,
+    "h1": [
+      "Offers"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "status": 200,
+    "errors": [],
+    "scrollWidth": 1440,
+    "h1": [
+      "Contact"
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/brand-test-404",
+    "status": 404,
+    "errors": [],
+    "scrollWidth": 1440,
+    "h1": [
+      "This table isn’t here."
+    ],
+    "brokenImages": [],
+    "videos": [],
+    "violations": []
+  }
+]
